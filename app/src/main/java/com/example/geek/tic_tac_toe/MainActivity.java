@@ -56,6 +56,8 @@ public class MainActivity extends Activity {
         }
     };
     // computer_go
+
+    //added tests
     Runnable computer_go = new Runnable() {
         @Override
         public void run() {
